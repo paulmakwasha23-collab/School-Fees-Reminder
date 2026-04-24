@@ -1,7 +1,7 @@
 # School-Fees-Reminder
 Automated school fees reminders for Zimbabwe via Twilio + n8n
 
-# Zumbani Fees Reminder 🇿🇼
+#  School-Fees-Reminder
 Automated WhatsApp school fees reminders for Zimbabwe using n8n + Twilio.
 
 ## Problem
