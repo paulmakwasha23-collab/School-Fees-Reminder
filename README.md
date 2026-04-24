@@ -1,9 +1,6 @@
 # School-Fees-Reminder
 Automated school fees reminders for Zimbabwe via Twilio + n8n
 
-#  School-Fees-Reminder
-Automated WhatsApp school fees reminders for Zimbabwe using n8n + Twilio.
-
 ## Problem
 Private schools lose 30-60% revenue to late fees. Secretaries waste 40hrs/month calling parents. Kids get sent home with letters.
 
