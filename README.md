@@ -11,8 +11,8 @@ Private schools lose 30-60% revenue to late fees. Secretaries waste 40hrs/month 
 Google Sheets → n8n → Twilio WhatsApp API. Auto-texts parents 7 days before due date. Cost: $0.008/text. ROI: 4000% if 1 kid pays.
 
 ## Demo
-[Screenshot of WhatsApp message]
-> Zumbani Primary: Fees for Paul Makwasha $12 due 2026-04-28. EcoCash 0771234567
+<img width="528" height="455" alt="Screenshot 2026-04-24 131146" src="https://github.com/user-attachments/assets/dd08fd87-8f92-41bd-8cdf-0d2d6b5789b6" />> 
+Zumbani Primary: Fees for Paul Makwasha $12 due 2026-04-28. EcoCash 0771234567
 
 ## Tech Stack
 - n8n Cloud (free tier)
