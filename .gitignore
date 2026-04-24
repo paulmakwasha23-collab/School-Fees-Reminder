@@ -1,0 +1,15 @@
+   # Secrets
+   .env
+   .env.local
+   credentials.json
+   auth_token.txt
+   
+   # n8n
+   *.log
+   
+   # OS junk
+   .DS_Store
+   Thumbs.db
+   
+   # Node
+   node_modules/
